@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fingerprint</string>
+    <string name="verify_fingerprint_to_continue">Verify fingerprint to continue</string>
+    <string name="idea">Idea</string>
+    <string name="welcome">Welcome!</string>
+    <string name="not_recognized">Fingerprint not recognized</string>
+</resources>
